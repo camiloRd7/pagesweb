@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my personal page.
 
 You can use the [editor on GitHub](https://github.com/camiloRd7/pagesweb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
